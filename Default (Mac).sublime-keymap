@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+shift+g"], "command": "find_subnet" },
+    { "keys": ["command+pageup"], "command": "increment_subnet" },
+    { "keys": ["command+pagedown"], "command": "decrement_subnet" },
+    { "keys": ["command+shift+up"], "command": "increment_network" },
+    { "keys": ["command+shift+down"], "command": "decrement_network" },
+    { "keys": ["command+option+up"], "command": "increment_ip" },
+    { "keys": ["command+option+down"], "command": "decrement_ip" },
+    { "keys": ["command+option+shift+g"], "command": "find_all_subnets" }
+]
